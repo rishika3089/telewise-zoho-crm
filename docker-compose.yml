@@ -1,0 +1,24 @@
+version: '3.9'
+
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: telewise_mongodb
+    restart: unless-stopped
+    env_file:
+      - docker/mongo.env
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+      - ./docker/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+    networks:
+      - telewise_network
+
+volumes:
+  mongodb_data:
+    driver: local
+
+networks:
+  telewise_network:
+    driver: bridge
