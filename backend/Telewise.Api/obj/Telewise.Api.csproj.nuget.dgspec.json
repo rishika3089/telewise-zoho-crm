@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rishi\\telewise-zoho-crm\\backend\\Telewise.Api\\Telewise.Api.csproj": {}
+    "C:\\Users\\rishi\\telewise-zoho-crm\\backend\\telewise.api\\Telewise.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rishi\\telewise-zoho-crm\\backend\\Telewise.Api\\Telewise.Api.csproj": {
+    "C:\\Users\\rishi\\telewise-zoho-crm\\backend\\telewise.api\\Telewise.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rishi\\telewise-zoho-crm\\backend\\Telewise.Api\\Telewise.Api.csproj",
+        "projectUniqueName": "C:\\Users\\rishi\\telewise-zoho-crm\\backend\\telewise.api\\Telewise.Api.csproj",
         "projectName": "Telewise.Api",
-        "projectPath": "C:\\Users\\rishi\\telewise-zoho-crm\\backend\\Telewise.Api\\Telewise.Api.csproj",
+        "projectPath": "C:\\Users\\rishi\\telewise-zoho-crm\\backend\\telewise.api\\Telewise.Api.csproj",
         "packagesPath": "C:\\Users\\rishi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rishi\\telewise-zoho-crm\\backend\\Telewise.Api\\obj\\",
+        "outputPath": "C:\\Users\\rishi\\telewise-zoho-crm\\backend\\telewise.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rishi\\AppData\\Roaming\\NuGet\\NuGet.Config"
