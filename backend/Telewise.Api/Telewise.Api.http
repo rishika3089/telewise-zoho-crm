@@ -1,0 +1,6 @@
+@Telewise.Api_HostAddress = http://localhost:5209
+
+GET {{Telewise.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
