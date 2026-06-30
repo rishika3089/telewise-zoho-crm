@@ -51,3 +51,9 @@ C:\Users\rishi\telewise-zoho-crm\backend\telewise.api\obj\Debug\net8.0\refint\Te
 C:\Users\rishi\telewise-zoho-crm\backend\telewise.api\obj\Debug\net8.0\Telewise.Api.pdb
 C:\Users\rishi\telewise-zoho-crm\backend\telewise.api\obj\Debug\net8.0\Telewise.Api.genruntimeconfig.cache
 C:\Users\rishi\telewise-zoho-crm\backend\telewise.api\obj\Debug\net8.0\ref\Telewise.Api.dll
+C:\Users\rishi\telewise-zoho-crm\backend\telewise.api\bin\Debug\net8.0\publish\web.config
+C:\Users\rishi\telewise-zoho-crm\backend\telewise.api\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\rishi\telewise-zoho-crm\backend\telewise.api\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\rishi\telewise-zoho-crm\backend\telewise.api\bin\Debug\net8.0\publish\Telewise.Api.deps.json
+C:\Users\rishi\telewise-zoho-crm\backend\telewise.api\bin\Debug\net8.0\publish\Telewise.Api.runtimeconfig.json
+C:\Users\rishi\telewise-zoho-crm\backend\telewise.api\bin\Debug\net8.0\publish\Telewise.Api.staticwebassets.endpoints.json

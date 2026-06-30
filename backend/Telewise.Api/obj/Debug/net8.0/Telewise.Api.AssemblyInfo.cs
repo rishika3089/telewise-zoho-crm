@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Telewise.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63c146573c71c18e5e8bd05005d977af1b0a34d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dba9acaef1a2a20601a4a586909f21a4706b686")]
 [assembly: System.Reflection.AssemblyProductAttribute("Telewise.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Telewise.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
