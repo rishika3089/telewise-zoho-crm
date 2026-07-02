@@ -217,6 +217,4 @@ NEXT_PUBLIC_APP_NAME=Telewise CRM Event Notifier
 
 Rishika Rajput
 
-B.Tech CSE
-
-Amity University
+Telewise 
